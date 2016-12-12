@@ -25,7 +25,7 @@ SECRET_KEY = '*%ta#&=u!5(g*j!0dr#w5q#s^fuj3(96%o5#(a+_he@k*wc%9#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bloggg.pythonanywhere.com']
 
 
 # Application definition
